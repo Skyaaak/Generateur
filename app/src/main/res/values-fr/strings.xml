@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Générateur</string>
+    <string name="generate_letter">Générer une lettre</string>
+    <string name="min">Min</string>
+    <string name="letter_generator">Générateur de lettre</string>
+    <string name="generate_number">Générer un nombre</string>
+    <string name="max">Max</string>
+    <string name="number_generator">Générateur de nombre</string>
+    <string name="pick_number">Saisir un nombre minimal et un nombre maximal</string>
+</resources>

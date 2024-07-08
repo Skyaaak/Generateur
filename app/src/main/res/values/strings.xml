@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Generator</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="generate_letter">Generate a letter</string>
+    <string name="letter_generator">Click below to generate a letter</string>
+    <string name="generate_number">Generate a number</string>
+    <string name="number_generator">Number generator</string>
+    <string name="pick_number">Enter a minimum and maximum number</string>
+</resources>
